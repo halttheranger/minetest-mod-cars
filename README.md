@@ -1,4 +1,4 @@
 # minetest-mod-cars
-lots of cars
-i did steal some textures/meshes for this but most of them i made myself...
+lots of car
+i stole the code, added some new cars, and changed a little in the code.
 enjoy :)
